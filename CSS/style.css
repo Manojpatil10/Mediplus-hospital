@@ -49,13 +49,16 @@ header {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
-  height: 100vh;
+  min-height: 100vh;
 }
 .header{
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 40px 15px;
+  height: 80vh;
+}
+.header-div{
+  padding: 0 15px;
 }
 .header-div h4 {
   font-size: 14px;
@@ -973,9 +976,9 @@ header {
   .heading{
     font-size: 64px;
   }
-  .header-div{
+  /* .header-div{
     padding: 80px 30px;
-  }
+  } */
   .header p {
     width: 50%;
   }
@@ -1236,9 +1239,9 @@ header {
   .health-priority{
     padding: 200px 0;
   }
-  .header-div{
+  /* .header-div{
     padding: 150px 60px;
-  }
+  } */
   .list-items li a{
     margin: 0 15px;
   }
