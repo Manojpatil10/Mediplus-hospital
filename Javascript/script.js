@@ -26,4 +26,9 @@ $(document).ready(function(){
     autoplay:true,
     // nav:true
   });
+
+
+  $('.nav-ham').click(function(){
+    $('.nav-mobile-bottom').slideToggle(1000);
+  })
 });
