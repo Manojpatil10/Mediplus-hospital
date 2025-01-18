@@ -1,0 +1,2 @@
+A Hospital Website is a comprehensive, responsive platform built with HTML5, CSS3, and JavaScript. It provides information about medical services and facilities while leveraging Owl Carousel for smooth image transitions, AOS (Animate On Scroll) for engaging animations, and Counter-Up for dynamic statistics, ensuring a user-friendly and visually appealing experience across all devices.
+Visit Project : https://manojpatil10.github.io/Mediplus-hospital-/
